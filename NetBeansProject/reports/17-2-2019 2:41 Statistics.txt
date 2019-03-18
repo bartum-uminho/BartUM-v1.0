@@ -1,0 +1,19 @@
+Number of messages Received 
+	Physical Layer: 809
+	Network Layer: 190
+	Application Layer: 50
+
+Number of messages Sent
+	Physical Layer: 44
+	Network Layer: 44
+	Application Layer: 10
+
+Number of Dropped Messages 
+	TTL exceeded: 0
+	Full buffer: 0	Duplicated message: 619	Duplicated message at destination: 0
+
+
+Statistics
+	Delay mean value: 10212.78
+	Network Layer Delivery Rate: 4.0
+	Application Layer Delivery Rate: 5.0

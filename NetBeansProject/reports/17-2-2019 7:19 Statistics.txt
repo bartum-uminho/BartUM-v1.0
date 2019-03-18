@@ -1,0 +1,19 @@
+Number of messages Received 
+	Physical Layer: 0
+	Network Layer: 0
+	Application Layer: 0
+
+Number of messages Sent
+	Physical Layer: 0
+	Network Layer: 0
+	Application Layer: 0
+
+Number of Dropped Messages 
+	TTL exceeded: 0
+	Full buffer: 0	Duplicated message: 0	Duplicated message at destination: 0
+
+
+Statistics
+	Delay mean value: 0.0
+	Network Layer Delivery Rate: 0.0
+	Application Layer Delivery Rate: 0.0
